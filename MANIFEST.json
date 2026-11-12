@@ -1,0 +1,108 @@
+{
+  "files": [
+    {
+      "path": "SKILL.md",
+      "sha256": "63e8cf8b0d6310dcbe32e430e11499022ecd16b11bf863da72990791f2dad089"
+    },
+    {
+      "path": ".nojekyll",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "README.md",
+      "sha256": "2e93cd4b43a8ccd0ac576cb2d9d54ee08e52a0590a951b33dee72c6725a28ad2"
+    },
+    {
+      "path": "Almajdouie-Team-Brand-Kit.zip",
+      "sha256": "bdae74035c4ce3cb4634c14427e96b1ffda3b1307a812deb7f7ccf2376dcea08"
+    },
+    {
+      "path": "index.html",
+      "sha256": "7a671782c7009afeae89bd26d306499860141a39c31ffa6ab119cd95aeae9a09"
+    },
+    {
+      "path": "START-HERE.md",
+      "sha256": "462c0f60d8fd59a879ce9ecc545ff6eb8841e2a8cbac6c939b84b5bb90d3fae2"
+    },
+    {
+      "path": "plugin.json",
+      "sha256": "aff13873d088e439d61c3f0bb11892f4a8088e222adf5b0dbd2ce3baf19cc321"
+    },
+    {
+      "path": "assets/claude-icon.svg",
+      "sha256": "b150888bc7257af83e3b85d3c2be4294f88986026f8168f6c12fc1fde6697350"
+    },
+    {
+      "path": "assets/Logo_Color.png",
+      "sha256": "37b98ffbfb6f52db3030d44ea336f8ec622cc4592aa53e87eabc7662c0955147"
+    },
+    {
+      "path": "assets/Logo_White.png",
+      "sha256": "bab8ed49ebe2af601c971b53278dab972f899e7485de640ee59acf4a867e5953"
+    },
+    {
+      "path": "assets/chatgpt-icon.svg",
+      "sha256": "2021463df9935dda89cef407aa564bced9d83b4f9b6ae8945d649e56676624f0"
+    },
+    {
+      "path": "assets/ICON-SOURCES.txt",
+      "sha256": "66496401fd7b9b34583a5950bee6124a554df48318f30d68a0c4fceff1f6c508"
+    },
+    {
+      "path": "assets/Almajdouie-Logo-Original.pdf",
+      "sha256": "8db66830de2d88607465bcb45df4deff2f9acefff11ea04d21cc2809f56485a2"
+    },
+    {
+      "path": "assets/sanad-preview.gif",
+      "sha256": "044d29f497c931d8f7f64c751a3902c1a374aa995728181b8fc4cdac317fa922"
+    },
+    {
+      "path": "team-instructions/SETUP.md",
+      "sha256": "94ac14969bf30466fadeb4ff41418810c187f57af78181c5110c15347237eb1c"
+    },
+    {
+      "path": "team-instructions/AGENTS.md",
+      "sha256": "990841bcd249b9c27971a85ffae029ce0a92e4835c6e0795d8c17ab41332fb4e"
+    },
+    {
+      "path": "team-instructions/General-Instructions.txt",
+      "sha256": "990841bcd249b9c27971a85ffae029ce0a92e4835c6e0795d8c17ab41332fb4e"
+    },
+    {
+      "path": "team-instructions/ChatGPT-Custom-Instructions.txt",
+      "sha256": "990841bcd249b9c27971a85ffae029ce0a92e4835c6e0795d8c17ab41332fb4e"
+    },
+    {
+      "path": "references/fonts.md",
+      "sha256": "e81633aeb1e706c52c9af77be1c5295d70b97f90217e8e11afd3e4c4c57279eb"
+    },
+    {
+      "path": "references/channel-rules.md",
+      "sha256": "cbadf46b062398b78a20efe92a2214b4529f9d46f924e4a05daf90b6a203ee5b"
+    },
+    {
+      "path": "references/visual-rules.md",
+      "sha256": "77ece17cde7de60a9e54d85cbdf76a5c2652e98756b230107852bf9552fea526"
+    },
+    {
+      "path": "skills/almajdouie-brand/SKILL.md",
+      "sha256": "63e8cf8b0d6310dcbe32e430e11499022ecd16b11bf863da72990791f2dad089"
+    },
+    {
+      "path": "skills/almajdouie-brand/references/fonts.md",
+      "sha256": "e81633aeb1e706c52c9af77be1c5295d70b97f90217e8e11afd3e4c4c57279eb"
+    },
+    {
+      "path": "skills/almajdouie-brand/references/channel-rules.md",
+      "sha256": "cbadf46b062398b78a20efe92a2214b4529f9d46f924e4a05daf90b6a203ee5b"
+    },
+    {
+      "path": "skills/almajdouie-brand/references/visual-rules.md",
+      "sha256": "77ece17cde7de60a9e54d85cbdf76a5c2652e98756b230107852bf9552fea526"
+    },
+    {
+      "path": ".agents/plugins/marketplace.json",
+      "sha256": "4ff3441c08a9d3b4e3a06a747fcee588dd297cb5489dc8c8f8ba33db7e6a75d1"
+    }
+  ]
+}
