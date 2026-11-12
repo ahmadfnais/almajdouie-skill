@@ -1,0 +1,3 @@
+Official site icons, retrieved 2026-11-12. Used solely to identify button destinations; no affiliation implied.
+ChatGPT: https://chatgpt.com/cdn/assets/favicon.6a33781f61.svg
+Claude: https://assets-proxy.anthropic.com/claude-ai/v2/assets/v1/cd02a42d9-Vq_H3mgS.svg
