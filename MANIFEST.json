@@ -18,7 +18,7 @@
     },
     {
       "path": "index.html",
-      "sha256": "cee6d5df22c33f0b2e06c9bc02dcebed2b951e11c4503c3e20f30b6e3d7562be"
+      "sha256": "496bd2e9a0d69300f33919822433958cf3d18ca13b61385d6a9547cc6646c6e8"
     },
     {
       "path": "START-HERE.md",
@@ -103,6 +103,10 @@
     {
       "path": ".agents/plugins/marketplace.json",
       "sha256": "4ff3441c08a9d3b4e3a06a747fcee588dd297cb5489dc8c8f8ba33db7e6a75d1"
+    },
+    {
+      "path": "thmanyah-heading-bold.woff",
+      "sha256": "4f98a46bc6006bdf0dc81be3212b5150eec3e18a68ba298ed21471f13393460b"
     }
   ]
 }
